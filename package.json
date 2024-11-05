@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Md Nafish Alam",
+	"description": "A project that does something awesome which i don't know yet and i hope i will finish this course",
+	"keywords": ["node","express","freecodecamp"],
+	"license": "IIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
